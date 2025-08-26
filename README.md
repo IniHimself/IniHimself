@@ -3,7 +3,7 @@
 💻 Computer Science student at Redeemer's University<br/>
 👨‍💻 Programmer at Blu Fantasy Online<br/>
 🌐 I build Mobile Apps, Websites and Discord Bots<br/>
-📩 Send a dm through discord @ https://discord.com/users/1196392546067296306
+📩 Send a dm le's work together
 
 ## :globe_with_meridians: Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1196392546067296306) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inioluwa-akogun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iniHIMselff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inioluwakogun@gmail.com) 
