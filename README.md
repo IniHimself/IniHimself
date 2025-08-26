@@ -2,7 +2,7 @@
 
 💻 Computer Science student at Redeemer's University<br/>
 👨‍💻 Programmer at Blu Fantasy Online<br/>
-🌐 I build Mobile Apps, Website and Discord Bots<br/>
+🌐 I build Mobile Apps, Websites and Discord Bots<br/>
 📩 Send a dm through discord @ https://discord.com/users/1196392546067296306
 
 
