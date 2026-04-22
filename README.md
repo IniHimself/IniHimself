@@ -1,7 +1,6 @@
 ## Hi, I'm Inioluwa
 
 💻 Computer Science student at Redeemer's University<br/>
-👨‍💻 Programmer at Blu Fantasy Online<br/>
 🌐 I build Mobile Apps, Websites and Discord Bots<br/>
 📩 Send a dm let's work together
 
